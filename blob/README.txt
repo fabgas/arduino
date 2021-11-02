@@ -1,4 +1,4 @@
-- url de l'outil
+- url de l'outil (utile uniquement si nécessité de modifier le code)
 https://downloads.arduino.cc/arduino-1.8.16-windows.zip
 
 - copier / coller ou télécharger le fichier blink.ino dans un répertoire blink
@@ -11,10 +11,12 @@ https://downloads.arduino.cc/arduino-1.8.16-windows.zip
     "Téléverser" pour envoyer un nouveau code dans le microcontroller (en cas de changement de code)
 
 
-- logiciel de capture sur PC
+- logiciel de capture sur PC : Debut
   - https://www.nchsoftware.com/capture/fr/index.html
     <! Ne capture que des videos !>
     Possible de régler un intervalle entre deux images : 
 	- Activer un intervalle
 	- Capturer une image toutes les <<>> secondes / minutes / heures
- 	- Options : Attention , la durée limite de l'enregistrement est mise sur 10h !!!!!! 
+ 	- Options /Enregistrer : 
+		    Attention , la durée limite de l'enregistrement est mise sur 10h !!!!!!
+                    Désactivation du compte à rebours   
