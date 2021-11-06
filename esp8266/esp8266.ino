@@ -6,8 +6,8 @@
 DHTesp  dht;
 
 #define DHT11_PIN 2
-const char* ssid = "Livebox-8BD0";           // Identifiant WiFi
-const char* password = "almaalma";  // Mot de passe WiFi
+const char* ssid = "xxxxxx";           // Identifiant WiFi
+const char* password = "xxxxxxxxx";// Mot de passe WiFi
 ESP8266WebServer server(80);         // On instancie un serveur qui ecoute sur le port 80
 
 int led =16;

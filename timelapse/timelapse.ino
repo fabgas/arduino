@@ -15,8 +15,8 @@
 #include "SD_MMC.h"   // carte SD
 
 // paramètres de votre réseau WiFi
-const char* ssid = "Livebox-8BD0";
-const char* password = "almaalma";
+const char* ssid = "xxxxxx";
+const char* password = "xxxxxxx";
 
 #define PART_BOUNDARY "123456789000000000000987654321"
 static const char* _STREAM_CONTENT_TYPE = "multipart/x-mixed-replace;boundary=" PART_BOUNDARY;
