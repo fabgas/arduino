@@ -13,8 +13,8 @@ int ledState = LOW;             // ledState used to set the LED
 // The value will quickly become too large for an int to store
 unsigned long previousMillis = 0;        // will store last time LED was updated
 
-const long tempsAllumage = 6000; // temps d'allumage de la led. (2s)
-const long tempsEteinte = 60000-tempsAllumage;           // interval at which to blink (milliseconds)
+const long tempsAllumage = 20000; // temps d'allumage de la led. (20s)
+const long tempsEteinte = 600000-tempsAllumage;           // interval at which to blink (milliseconds)
 void setup() {
   // set the digital pin as output:
   pinMode(ledPin, OUTPUT);
